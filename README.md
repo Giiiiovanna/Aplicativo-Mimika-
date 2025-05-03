@@ -1,3 +1,5 @@
+# Olá Mundo! Sou a Giovanna e seja muito bem-vindo(a)!
+
 # Nome do projeto: 
   Aplicativo Mimika
 # Descrição: 
