@@ -1,6 +1,5 @@
 <img width=100% src= "https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Aplicativo%20Mimika&fontColor=Black">
- <p align="center">lá Mundo! Seja muito bem-vindo(a)!</p>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev) 
+ <p align="center">Olá Mundo! Seja muito bem-vindo(a)!</p>
 
 ### Nome do projeto: 
   Aplicativo Mimika
@@ -13,10 +12,12 @@
   2. Acesse a pasta do projeto: Cd mimika
   3. Instale as dependências: npm install
   4. Execute o projeto: npm start
+<br/><br/>[![My Skills](https://skillicons.dev/icons?i=git,npm)](https://skillicons.dev)
      
 ### Tecnologias utilizadas:
   1. Linguagem de programação: Dart; Python
   2. Framework: Flutter; Firebase
+<br/><br/>[![My Skills](https://skillicons.dev/icons?i=dart,python,flutter,firebase)](https://skillicons.dev)
      
 ### Autores
   1. Alicia Cesario (alicia.cesario@etec.sp.gov.br)
