@@ -1,5 +1,6 @@
-<img width=100% src= "">
-# *Olá Mundo! Seja muito bem-vindo(a)!*
+<img width=100% src= "https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Aplicativo%20Mimika&fontColor=Black">
+ <p align="center">lá Mundo! Seja muito bem-vindo(a)!</p>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev) 
 
 ### Nome do projeto: 
   Aplicativo Mimika
